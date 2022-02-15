@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dianabohorquez
+- 👋 Hi, I’m @DianaScientist
 - 👀 I’m interested in cats and data
 - 🌱 I’m currently learning how to conquer the world
-- 💞️ I’m looking to collaborate on ... I dunno already
+- 💞️ I’m looking to collaborate on ... I dunno yet
 - 📫 How to reach me: https://www.linkedin.com/in/dianabohorquez/
 
 <!---
